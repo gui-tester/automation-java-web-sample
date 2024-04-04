@@ -12,7 +12,7 @@ import org.junit.runner.RunWith;
                 "junit:target/cucumber/TEST-response.xml",
                 "rerun:target/rerun.txt"
         },
-        tags = "@greenpeace"
+        tags = "@sample"
 )
 
 public class TestRunner {
